@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.9"
 chess = "^1.9.3"
 berserk = "^0.10.0"
+flask = "^2.2.2"
+ipykernel = "^6.16.2"
 
 
 [build-system]
